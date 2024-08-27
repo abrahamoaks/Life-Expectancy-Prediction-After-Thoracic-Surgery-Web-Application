@@ -161,7 +161,7 @@ Since this is a binary classification problem, I used the following metrics:
   - JavaScript 
 
 ## Data Source
-The dataset used in this project is sourced from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/277/thoracic+surgery+data).
+The dataset used in this project is sourced from the University of California (UCI) Machine Learning Repository (https://archive.ics.uci.edu/dataset/277/thoracic+surgery+data).
 
 
 ## Conclusion

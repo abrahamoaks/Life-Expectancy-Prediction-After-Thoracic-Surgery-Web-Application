@@ -1,6 +1,6 @@
 # Life Expectancy Prediction After Thoracic Surgery using Machine Learning with Flask Web App -- Abraham Obianke 
 
-[Abraham](img/4_20241130_013902_0003.png)
+![Abraham](img/4_20241130_013902_0003.png)
 
 
 ## Introduction 

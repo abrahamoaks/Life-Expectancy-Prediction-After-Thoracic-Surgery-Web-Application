@@ -126,7 +126,7 @@ Since this is a binary classification problem, I used the following metrics:
 ![Flask](img/Thoracic_surgery_demo.gif)
 
 ### Demo Video on YouTube 
-[![Demo video](https://img.youtube.com/vi/A2Uxb4JM8ew&t=51s/0.jpg)](https://www.youtube.com/watch?v=A2Uxb4JM8ew&t=51s)
+[![Demo video](https://img.youtube.com/vi/A2Uxb4JM8ew&t/0.jpg)](https://www.youtube.com/watch?v=A2Uxb4JM8ew&t)
 
 
 ## Model Monitoring and Maintenance 

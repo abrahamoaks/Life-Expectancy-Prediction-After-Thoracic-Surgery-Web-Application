@@ -126,7 +126,7 @@ Since this is a binary classification problem, I used the following metrics:
 ![Flask](img/Thoracic_surgery_demo.gif)
 
 ### Demo Video on YouTube 
-[![Demo video](https://img.youtube.com/vi/Olqai5M1Ovk2yMLW/0.jpg)](https://www.youtube.com/watch?v=Olqai5M1Ovk2yMLW)
+[![Demo video](https://img.youtube.com/vi/A2Uxb4JM8ew&t=52s/0.jpg)](https://www.youtube.com/watch?v=A2Uxb4JM8ew&t=52s)
 
 ## Model Monitoring and Maintenance 
 - I leveraged CometML, a robust model monitoring platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.

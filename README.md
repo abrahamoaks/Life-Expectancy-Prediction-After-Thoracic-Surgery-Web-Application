@@ -117,9 +117,8 @@ Since this is a binary classification problem, I used the following metrics:
 
 
 ## Data-Driven Solution 
-  ### Deploying the Model with a Flask Web App
- + To make the model accessible to end-users, I have developed a full fledged web application which provides a friendly user interface where users can input relevant parameters through a web form. Upon submission, the app processes the input data using the accurately trained cloud based machine learning model and provides the predicted outcome of a patient. [Click HERE to Gain FREE Access to the Machine Learning Web App](http://abcruz.pythonanywhere.com/) hosted in the cloud for global usage.
-
+  ### Productionalizing the Model with a Flask Web Application 
+ + To make the model accessible to end-users, I have developed a full fledged web application which provides a friendly user interface where users can input relevant parameters through a web form. Upon submission, the app processes the input data using the accurately trained cloud based machine learning model and provides the predicted outcome of a patient. A demo of the web app is shown below:
 ![Flask App](img/page1.jpg)
 ![Flask App](img/page2.jpg)
 
@@ -127,6 +126,9 @@ Since this is a binary classification problem, I used the following metrics:
 
 ### Demo Video on YouTube 
 [![Demo video](https://img.youtube.com/vi/A2Uxb4JM8ew&t=52s/0.jpg)](https://www.youtube.com/watch?v=A2Uxb4JM8ew&t=52s)
+
+## Web App Status 
+- Not yet deployed due to cost issues.
 
 ## Model Monitoring and Maintenance 
 - I leveraged CometML, a robust model monitoring platform and implemented a quality control check, experiment tracking, and model monitoring techniques to observe data drift, conduct routine maintenance and prevent performance degradation. This is to help ensure model fairness, improve model performance and maintain model reliability.
